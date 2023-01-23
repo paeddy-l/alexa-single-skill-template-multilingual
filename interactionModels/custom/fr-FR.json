@@ -1,0 +1,92 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayStationIntent",
+          "slots": [],
+          "samples": [
+            "ouvre",
+            "lance",
+            "joue"
+          ]
+        },
+        {
+          "name": "AMAZON.PreviousIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NextIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": []
+        },
+        {
+          "name": "CurrentSongIntent",
+          "slots": [],
+          "samples": [
+            "comment s'appelle le titre",
+            "ce qui joue en ce moment"
+          ]
+        },
+        {
+          "name": "CurrentPlaylistIntent",
+          "slots": [],
+          "samples": [
+            "comment s'appelle l'émission en cours",
+            "quelle émission en cours"
+          ]
+        },
+        {
+          "name": "NextPlaylistIntent",
+          "slots": [],
+          "samples": [
+            "comment s'appelle l'émission prochain",
+            "quelle émission diffusera en prochain"
+          ]
+        },
+        {
+          "name": "LastSongsIntent",
+          "slots": [],
+          "samples": [
+            "ce qui jouait avant",
+            "ce qui jouait dernièrement"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "1"
+}
