@@ -50,7 +50,7 @@ const stationDisplayName = {
 
 // Standardsprache
 // Default language
-const default_language = "en_EN";              // Example: "en_EN", "de_DE .."
+const default_language = "de_DE";              // Example: "en_EN", "de_DE .."
 
 /*
 ####################################################################################
