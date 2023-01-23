@@ -1,0 +1,94 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayStationIntent",
+          "slots": [],
+          "samples": [
+            "inicia",
+            "pon",
+            "abre"
+          ]
+        },
+        {
+          "name": "AMAZON.PreviousIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NextIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": []
+        },
+        {
+          "name": "CurrentSongIntent",
+          "slots": [],
+          "samples": [
+            "estás escuchando",
+            "cómo se llama este titulo",
+            "está sonando",
+            "qué canción es"
+          ]
+        },
+        {
+          "name": "CurrentPlaylistIntent",
+          "slots": [],
+          "samples": [
+            "cómo se llama este programa",
+            "qué programa es"
+          ]
+        },
+        {
+          "name": "NextPlaylistIntent",
+          "slots": [],
+          "samples": [
+            "cómo se llama el siguiente programa",
+            "qué programa viene después"
+          ]
+        },
+        {
+          "name": "LastSongsIntent",
+          "slots": [],
+          "samples": [
+            "qué sonó antes",
+            "qué sonó cómo ultimo"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "1"
+}

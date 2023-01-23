@@ -1,0 +1,101 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayStationIntent",
+          "slots": [],
+          "samples": [
+            "start",
+            "open"
+          ]
+        },
+        {
+          "name": "CurrentSongIntent",
+          "slots": [],
+          "samples": [
+            "whats currently going on",
+            "what the title is",
+            "whats on",
+            "whats the name of the song"
+          ]
+        },
+        {
+          "name": "LastSongsIntent",
+          "slots": [],
+          "samples": [
+            "what was running before",
+            "what was last running",
+            "what was playing last"
+          ]
+        },
+        {
+          "name": "CurrentPlaylistIntent",
+          "slots": [],
+          "samples": [
+            "the name of the current show",
+            "for the current show",
+            "what show is on"
+          ]
+        },
+        {
+          "name": "NextPlaylistIntent",
+          "slots": [],
+          "samples": [
+            "what show is next",
+            "what the name of the next show is",
+            "what show is on next"
+          ]
+        },
+        {
+          "name": "AMAZON.PreviousIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NextIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "1"
+}

@@ -1,0 +1,101 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayStationIntent",
+          "slots": [],
+          "samples": [
+            "starte",
+            "spiele",
+            "öffne"
+          ]
+        },
+        {
+          "name": "AMAZON.PreviousIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NextIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.RepeatIntent",
+          "samples": []
+        },
+        {
+          "name": "CurrentSongIntent",
+          "slots": [],
+          "samples": [
+            "was aktuell läuft",
+            "wie der titel heißt",
+            "was gerade läuft",
+            "wie das lied heißt"
+          ]
+        },
+        {
+          "name": "CurrentPlaylistIntent",
+          "slots": [],
+          "samples": [
+            "wie die aktuelle sendung heißt",
+            "nach der aktuellen sendung",
+            "welche sendung läuft"
+          ]
+        },
+        {
+          "name": "NextPlaylistIntent",
+          "slots": [],
+          "samples": [
+            "wie die nächste sendung heißt",
+            "welche sendung als nächstes kommt",
+            "welche sendung als nächstes läuft"
+          ]
+        },
+        {
+          "name": "LastSongsIntent",
+          "slots": [],
+          "samples": [
+            "was davor lief",
+            "was zuletzt lief"
+          ]
+        }
+      ],
+      "types": [],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "1"
+}
