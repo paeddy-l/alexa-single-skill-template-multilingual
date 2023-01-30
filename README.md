@@ -12,8 +12,8 @@
 | English (IN)    |    `en-IN`    |  &#10004; (en-GB)    |
 | English (US)    |    `en-US`    |  &#10004; (en-GB)    |
 | Spanish (ES)    |    `es-ES`    |       &#10004;       |
-| Spanish (MX)    |    `es-MX`    |       &#10060;       |
-| Spanish (US)    |    `es-US`    |       &#10060;       |
+| Spanish (MX)    |    `es-MX`    |       &#10004;       |
+| Spanish (US)    |    `es-US`    |       &#10004;       |
 | French (CA)     |    `fr-CA`    |       &#10060;       |
 | French (FR)     |    `fr-FR`    |       &#10004;       |
 | Hindi (IN)      |    `hi-IN`    |       &#10060;       |
