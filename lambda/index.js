@@ -50,7 +50,7 @@ const stationDisplayName = {
 
 // Standardsprache
 // Default language
-const default_language = "de_DE";              // Example: "en_EN", "de_DE .."
+const default_language = "en_EN";              // Example: "en_EN", "de_DE .."
 
 /*
 ####################################################################################
@@ -128,6 +128,7 @@ const APIRequest = async (url) => {
 // language change
 const newLocale = function(lang) {
     if (lang === "en_GB" || lang === "en_CA" || lang === "en_AU" || lang === "en_IN" || lang === "en_US") { lang = "en_EN"; }
+    if (lang === "es_US" || lang === "es_MX") { lang = "es_ES"; }
     return lang;
 }
 

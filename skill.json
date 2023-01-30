@@ -167,6 +167,48 @@
                "updatesDescription":"",
                "largeIconUri":""
             },
+            "es-MX":{
+               "summary":"",
+               "examplePhrases":[],
+               "keywords":[
+                  "radio",
+                  "online",
+                  "radio",
+                  "internet",
+                  "radio",
+                  "web",
+                  "radio",
+                  "music",
+                  "laut",
+                  "laut.fm"
+                ],
+               "name":"",
+               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania.",
+               "smallIconUri":"",
+               "updatesDescription":"",
+               "largeIconUri":""
+            },
+            "es-US":{
+               "summary":"",
+               "examplePhrases":[],
+               "keywords":[
+                  "radio",
+                  "online",
+                  "radio",
+                  "internet",
+                  "radio",
+                  "web",
+                  "radio",
+                  "music",
+                  "laut",
+                  "laut.fm"
+                ],
+               "name":"",
+               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania.",
+               "smallIconUri":"",
+               "updatesDescription":"",
+               "largeIconUri":""
+            },
             "it-IT":{
                "summary":"",
                "examplePhrases":[],
