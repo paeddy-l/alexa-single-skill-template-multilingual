@@ -3,8 +3,6 @@
       "publishingInformation":{
          "locales":{
             "de-DE":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "Radio",
                   "Online-Radio",
@@ -14,15 +12,9 @@
                   "laut.fm",
                   "laut"
                ],
-               "name":"",
-               "description":"\n\nDer Radiostream wird zur Verfügung gestellt von laut.fm, dem User Generated Radio™.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\nDer Radiostream wird zur Verfügung gestellt von laut.fm, dem User Generated Radio™."
             },
             "en-US":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -35,15 +27,9 @@
                   "laut",
                   "laut.fm"
                ],
-               "name":"",
-               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany."
             },
             "en-CA":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -56,15 +42,9 @@
                   "laut",
                   "laut.fm"
                ],
-               "name":"",
-               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany."
             },
             "en-IN":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -77,15 +57,9 @@
                   "laut",
                   "laut.fm"
                ],
-               "name":"",
-               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany."
             },
             "en-AU":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -98,15 +72,9 @@
                   "laut",
                   "laut.fm"
                ],
-               "name":"",
-               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany."
             },
             "en-GB":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -119,15 +87,9 @@
                   "laut",
                   "laut.fm"
                ],
-               "name":"",
-               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\nThe radio stream is provided by laut.fm, the User Generated Radio™ from Germany."
             },
             "fr-FR":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -140,15 +102,9 @@
                   "laut",
                   "laut.fm"
                 ],
-               "name":"",
-               "description":"\n\n Le flux radio est fourni par laut.fm, la User Generated Radio™ d'Allemagne.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\n Le flux radio est fourni par laut.fm, la User Generated Radio™ d'Allemagne."
             },
             "es-ES":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -161,15 +117,9 @@
                   "laut",
                   "laut.fm"
                 ],
-               "name":"",
-               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania."
             },
             "es-MX":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -182,15 +132,9 @@
                   "laut",
                   "laut.fm"
                 ],
-               "name":"",
-               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania."
             },
             "es-US":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -203,15 +147,9 @@
                   "laut",
                   "laut.fm"
                 ],
-               "name":"",
-               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania."
             },
             "it-IT":{
-               "summary":"",
-               "examplePhrases":[],
                "keywords":[
                   "radio",
                   "online",
@@ -224,18 +162,13 @@
                   "laut",
                   "laut.fm"
                 ],
-               "name":"",
-               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania.",
-               "smallIconUri":"",
-               "updatesDescription":"",
-               "largeIconUri":""
+               "description":"\n\n La emisora de radio es laut.fm, la User Generated Radio™ de Alemania."
             }			
          },
          "automaticDistribution":{
             "isActive":false
          },
-         "isAvailableWorldwide":false,
-         "testingInstructions":"",
+         "isAvailableWorldwide":true,
          "category":"STREAMING_SERVICE",
          "distributionMode":"PUBLIC",
          "distributionCountries":[]
@@ -341,17 +274,7 @@
       "manifestVersion":"1.0",
       "privacyAndCompliance":{
          "allowsPurchases":false,
-         "locales":{
-            "de-DE":{},
-            "en-US":{},
-            "en-CA":{},
-            "en-IN":{},
-            "en-AU":{},
-            "en-GB":{},
-            "fr-FR":{},
-            "es-ES":{},
-            "it-IT":{}
-         },
+         "locales":{},
          "containsAds":true,
          "isExportCompliant":true,
          "isChildDirected":false,
