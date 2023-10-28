@@ -169,6 +169,7 @@ const LaunchRequestHandler = {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'LaunchRequest'
           || (Alexa.getRequestType(handlerInput.requestEnvelope) === 'IntentRequest'
           && Alexa.getIntentName(handlerInput.requestEnvelope) === 'PlayStationIntent'
+          || Alexa.getIntentName(handlerInput.requestEnvelope) === 'AMAZON.StartOverIntent'
           || Alexa.getIntentName(handlerInput.requestEnvelope) === 'AMAZON.NextIntent'
           || Alexa.getIntentName(handlerInput.requestEnvelope) === 'AMAZON.ResumeIntent');
     },
@@ -193,10 +194,13 @@ const LaunchRequestHandler = {
         let message = `${language.welcomeMessage} ${display_name}`;
         let speakText = `${language.welcomeMessage} ${spokenStationName[newLocale(locale)]}`;
         if (Alexa.getRequestType(handlerInput.requestEnvelope) === 'IntentRequest') {
-            message = `${language.continue}`;
-            messageTitle = "Information";
-            speakText = `${language.continue}`;
-        }
+            if (Alexa.getIntentName(handlerInput.requestEnvelope) === 'AMAZON.StartOverIntent') {    
+            } else {
+                message = `${language.continue}`;
+                messageTitle = "Information";
+                speakText = `${language.continue}`;
+            }
+        }        
         let StreamInfo = ``;
         try {
             StreamInfo = {
