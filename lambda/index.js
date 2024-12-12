@@ -129,6 +129,7 @@ const APIRequest = async (url) => {
 const newLocale = function(lang) {
     if (lang === "en_GB" || lang === "en_CA" || lang === "en_AU" || lang === "en_IN" || lang === "en_US") { lang = "en_EN"; }
     if (lang === "es_US" || lang === "es_MX") { lang = "es_ES"; }
+    if (lang === "fr_FR" || lang === "fr_CA") { lang = "fr_FR"; }
     return lang;
 }
 
